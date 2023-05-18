@@ -3,9 +3,9 @@ representan un texto que se puede asignar a una variable.
 
 # 3 formas de crear strings:
 
-  const nombreVariable = '';
-  const nombreVariable2 = String('');
-  const nombreVariable3 = new String('');
+    const nombreVariable = '';
+    const nombreVariable2 = String('');
+    const nombreVariable3 = new String('');
 
 # Metodos strings
 
